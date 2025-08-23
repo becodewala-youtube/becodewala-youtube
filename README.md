@@ -31,7 +31,6 @@
 <td>
       <img src="https://github.com/user-attachments/assets/2973319f-127c-4d3e-bcfb-d863cdd27e7a"
            alt="Vibing Good Night GIF by WUFFI"
-           height="300px"
            width="100%" />
     </td>
 
