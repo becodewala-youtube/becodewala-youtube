@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1b9e7d40-394a-4f37-8b18-4bc589b86735" 
        alt="Vibing Good Night GIF by WUFFI" 
-       width="100%" 
-      />
+       width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vikash Kumar.</h1>
 <h3 align="center">A curious and passionate Full Stack developer.</h3>
+
 
 
 
