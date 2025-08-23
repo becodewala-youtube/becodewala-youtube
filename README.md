@@ -1,14 +1,6 @@
 
-
-
 <h1 align="center">Hi 👋, I'm Vikash Kumar.</h1>
 <h3 align="center">A curious and passionate Full Stack developer.</h3>
-
-
-
-
-
-
 
 
 ### Tech Stack:
