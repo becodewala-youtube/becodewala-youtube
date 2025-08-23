@@ -36,7 +36,7 @@
 ### Others Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)![Material UI](https://img.shields.io/badge/Material_UI-00B0FF?style=for-the-badge&logo=mui&logoColor=white)
- ![DaisyUI](https://img.shields.io/badge/DaisyUI-51C7B7?style=for-the-badge&logo=daisyui&logoColor=white)![DaisyUI](https://img.shields.io/badge/DaisyUI-51C7B7?style=for-the-badge&logo=daisyui&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ ![DaisyUI](https://img.shields.io/badge/DaisyUI-51C7B7?style=for-the-badge&logo=daisyui&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  
  
 
