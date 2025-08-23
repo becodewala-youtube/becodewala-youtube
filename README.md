@@ -22,17 +22,17 @@
 
 <table align="center">
   <tr>
-   
-    <td>
+   <td>
       <img src="https://github-readme-stats.vercel.app/api?username=becodewala-youtube&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
       <br/>
       <img src="https://streak-stats.demolab.com?user=becodewala-youtube&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=becodewala-youtube&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
     </td>
+   
 
- 
-    <td>
+
+ <td>
       <img src="https://github.com/user-attachments/assets/2973319f-127c-4d3e-bcfb-d863cdd27e7a"
            alt="Vibing Good Night GIF by WUFFI"
            height="300px"
